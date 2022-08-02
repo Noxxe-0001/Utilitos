@@ -1,6 +1,6 @@
 {
   "name": "utilito",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The multi-functional Discord bot.",
   "main": "bot.js",
   "scripts": {
